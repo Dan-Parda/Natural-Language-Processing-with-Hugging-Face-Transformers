@@ -8,5 +8,7 @@ Mentee assignment from IBM Advance AI @ Infinite Learning Course Introduction to
 Mentee Info :
 
 Nama : Rahmad Daniel P N
+
 Program : IBM Advance AI
+
 Mentor Arifian Saputra
